@@ -1,4 +1,4 @@
-# Weather App/ WEATHE- V
+# Weather App/ WEATH- V
 
 #  A API integrated 5 day weather forecast and prediction application created using flutter framework and Dart language. 
 
