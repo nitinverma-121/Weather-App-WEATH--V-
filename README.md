@@ -1,8 +1,16 @@
 # Weather App/ WEATHE- V
 
+#  A API integrated 5 day weather forecast and prediction application created using flutter framework and Dart language. 
 
+-> The weather App is detailed to a extend of every 3 hour stamp
 
-A new Flutter project.
+-> The application also offers technical statstics like humidity, ground and sea level, pressure and much more.
+
+-> This API used here is OPEN WEATHER MAP API, which specializes in predicting the weather of any city in this world.
+
+-> API LINK:- https://openweathermap.org/forecast5
+
+ 
 
 ## Getting Started
 
